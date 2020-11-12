@@ -1,4 +1,4 @@
-<img src="figs/logo_01.png" width="150"/>
+<img src="figs/logo_01.png" width="150"/>nnn
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/snorkel)
 ![PyPI](https://img.shields.io/pypi/v/snorkel)
